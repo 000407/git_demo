@@ -1,2 +1,2 @@
-This is the initial file
-A new line is also added
+A new line is also added with text
+This actually is the first file
